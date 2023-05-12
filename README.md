@@ -7,11 +7,11 @@ Esta é uma App onde o usuario pode usuário cadastrar um filme, preencher algum
 
 ## :memo: Conceitos trabalhados
 
-- Node.js;
+- Node.js
 - Express
-- Criptografia de senhas;
+- Criptografia de senhas
 - Troca de senha
-- Validação de e-mail;
+- Validação de e-mail
 - Base de dados
 - Query Builder e mais.
 
